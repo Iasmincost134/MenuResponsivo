@@ -1,0 +1,24 @@
+.menu{
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #206ed4;
+    position: absolute;
+    top: -13px;
+    left: 0px;
+    height: 300px;
+    z-index: 0;
+    width: 100%;
+}
+
+.menu-barras{
+    display: initial;
+}
+#icone {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-top: 80px ;
+    margin-left: -380px;
+    z-index: 999;
+    position: absolute;
+}
